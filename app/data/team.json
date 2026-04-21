@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Trần Đình Nam",
+    "title": "Thạc Sỹ",
+    "position": "Phụ trách kinh doanh",
+    "department": "Kinh Doanh",
+    "bio": "Chuyên gia phát triển thị trường với hơn 10 năm kinh nghiệm trong lĩnh vực công nghệ và tư vấn doanh nghiệp.",
+    "birthYear": 1990,
+    "detailedBio": [
+      "Nhiều năm kinh nghiệm trong lĩnh vực kinh doanh và thị trường"
+    ],
+    "imageURL": "https://img.freepik.com/premium-photo/young-brazilian-man-isolated-white-background-laughing_1368-362553.jpg?semt=ais_hybrid&w=740&q=80",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "linkedin": "#",
+      "reddit": "#"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Trần Thế Vinh",
+    "title": "Tiến Sỹ",
+    "position": "Giám đốc công nghệ",
+    "department": "Ban Điều Hành",
+    "bio": "Chuyên gia AI và Blockchain với kinh nghiệm nghiên cứu tại các viện công nghệ hàng đầu.",
+    "birthYear": 1984,
+    "detailedBio": [
+      "Giảng viên chính Đại học Bách khoa Odesa, Ukraine",
+      "Giảng viên chính Đại học Giao Thông Vận Tải Tp. Hồ Chí Minh, Việt Nam",
+      "Chuyên gia trong lĩnh vực Cybersecurity, Blockchain"
+    ],
+    "imageURL": "https://img.freepik.com/premium-photo/young-brazilian-man-isolated-white-background-laughing_1368-362553.jpg?semt=ais_hybrid&w=740&q=80",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "linkedin": "#",
+      "reddit": "#"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lê Minh Thanh",
+    "title": "Thạc Sỹ",
+    "position": "Trưởng nhân sự",
+    "department": "Marketing",
+    "bio": "Chuyên gia quản trị nhân sự và phát triển thương hiệu. Xây dựng văn hóa doanh nghiệp sáng tạo.",
+    "birthYear": 1988,
+    "detailedBio": [
+      "Giảng viên Đại học Giao Thông Vận Tải Tp. Hồ Chí Minh, Việt Nam"
+    ],
+    "imageURL": "https://img.freepik.com/premium-photo/young-brazilian-man-isolated-white-background-laughing_1368-362553.jpg?semt=ais_hybrid&w=740&q=80",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "linkedin": "#",
+      "reddit": "#"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bùi Văn Thượng",
+    "title": "Thạc Sỹ",
+    "position": "Trưởng nhóm lập trình",
+    "department": "Developer",
+    "bio": "Full-stack Engineer với năng lực chuyên sâu về kiến trúc hệ thống, AI integration và Blockchain.",
+    "birthYear": 1992,
+    "detailedBio": [
+      "Tốt nghiệp Đại học và Thạc sĩ chuyên ngành khoa học máy tính tại Trường Đại học Bách khoa Odesa, Ukraine",
+      "Giảng viên trường Đại học Giao thông vận tải thành phố Hồ Chí Minh",
+      "Hơn 15 năm kinh nghiệm trong R&D và lập trình"
+    ],
+    "imageURL": "https://img.freepik.com/premium-photo/young-brazilian-man-isolated-white-background-laughing_1368-362553.jpg?semt=ais_hybrid&w=740&q=80",
+    "socialLinks": {
+      "facebook": "#",
+      "twitter": "#",
+      "instagram": "#",
+      "linkedin": "#",
+      "reddit": "#"
+    }
+  }
+]

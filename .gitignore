@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# IDEs
+.vscode/
+.idea/
+
+# OS rác
+.DS_Store
+Thumbs.db
+
+# Data (Tùy chọn: Nếu bạn muốn lưu data mẫu thì có thể bỏ dòng dưới)
+# app/data/*.json

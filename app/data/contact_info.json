@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name": "CÔNG TY TNHH GIẢI PHÁP VÀ CÔNG NGHỆ SGOD",
+    "shortName": "SGOD",
+    "taxCode": "0317774556"
+  },
+  "info": [
+    {
+      "id": "address",
+      "icon": "MapPin",
+      "label": "Địa chỉ",
+      "content": "123 Đường Công Nghệ, Quận 1, TP. Hồ Chí Minh"
+    },
+    {
+      "id": "phone",
+      "icon": "Phone",
+      "label": "Hotline",
+      "content": "0909 123 456"
+    },
+    {
+      "id": "email",
+      "icon": "Mail",
+      "label": "Email",
+      "content": "contact@sgod.vn"
+    }
+  ]
+}

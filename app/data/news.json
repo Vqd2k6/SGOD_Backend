@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Đồng đô la chìm dần trước kỳ kiểm tra lạm phát của Mỹ. Bảng Anh tăng giá",
+    "description": "SINGAPORE, 11 tháng 7 - Đồng đô la giảm nhẹ vào Thứ Năm mặc dù các động thái lớn lại hạn chế trước báo cáo lạm phát của Mỹ sắp được công bố trong ngày, trong khi bảng Anh tăng giá do kỳ vọng về việc Ngân hàng Trung ương Anh (BoE) sẽ không giảm lãi suất vào tháng 8 đang suy giảm.",
+    "image": "https://sgod.vn/sgod_server/images/news/1720669690885-125148839-2151660789.jpg",
+    "color": "from-green-500/20 to-emerald-500/20"
+  },
+  {
+    "id": 2,
+    "title": "Những thông báo mới nhất về AI cũng có nghĩa là một sự điều chỉnh lớn khác cho các nhà giáo dục",
+    "description": "Các tính năng mới của ChatGPT và các công cụ khác có thể khiến giáo viên cần phải thay đổi cách giảng bài cũng như xem xét lại bài tập về nhà.",
+    "image": "https://sgod.vn/sgod_server/images/news/1719974290805-28274263-634%20[Converted].png",
+    "color": "from-blue-500/20 to-cyan-500/20"
+  },
+  {
+    "id": 3,
+    "title": "CertiK di chuyển các ứng dụng blockchain sang Alibaba Cloud",
+    "description": "Công ty bảo mật blockchain CertiK đã di chuyển cơ sở hạ tầng đám mây của mình tại Châu Á sang một công ty con về điện toán đám mây của gã khổng lồ thương mại điện tử Trung Quốc Alibaba. Theo thỏa thuận, CertiK sẽ lưu trữ bộ 12 ứng dụng blockchain của mình trên Alibaba Cloud và sử dụng tài nguyên đám mây của mình để cung cấp các dịch vụ Web3.",
+    "image": "https://sgod.vn/sgod_server/images/news/1719885932294-68179816-674%20[Converted].png",
+    "color": "from-purple-500/20 to-indigo-500/20"
+  }
+]
