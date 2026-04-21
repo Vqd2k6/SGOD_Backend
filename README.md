@@ -2,13 +2,13 @@
 
 Dự án này là một Backend giả lập (Mock API) được xây dựng bằng **FastAPI**, nhằm phục vụ việc phát triển và kiểm thử giao diện (Frontend) cho dự án SGOD - Smart Generation of Digital.
 
-## 🚀 Tính năng chính
+##  Tính năng chính
 - Cung cấp dữ liệu JSON cho các section: Tin tức, Blog, Đội ngũ nhân sự, Thông tin công ty.
 - Xử lý gửi form liên hệ (Mock).
 - Tài liệu API tự động (Swagger UI).
 - Cấu hình linh hoạt qua file `.env`.
 
-## 🛠 Cài đặt và Chạy
+##  Cài đặt và Chạy
 
 ### 1. Yêu cầu hệ thống
 - Python 3.9+
@@ -39,7 +39,7 @@ Server sẽ mặc định chạy tại: `http://127.0.0.1:8000`
 
 ---
 
-## 📖 Danh sách API (Endpoints)
+##  Danh sách API (Endpoints)
 
 Tài liệu chi tiết có thể xem tại: `http://127.0.0.1:8000/docs`
 
@@ -67,7 +67,7 @@ Tài liệu chi tiết có thể xem tại: `http://127.0.0.1:8000/docs`
 
 ---
 
-## 📁 Cấu trúc thư mục
+##  Cấu trúc thư mục
 - `app/data/`: Chứa các file JSON dữ liệu mock.
 - `app/routers/`: Định nghĩa các endpoints.
 - `app/schemas/`: Định nghĩa kiểu dữ liệu (Pydantic models).
